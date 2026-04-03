@@ -1,6 +1,7 @@
 ## A small list of online gaming sites
 
 poki.com<br>
+bloxd.io<br>
 www.crazygames.com<br>
 crazygames.com<br>
 deadshot.io<br>
