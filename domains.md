@@ -6,7 +6,7 @@ www.crazygames.com<br>
 crazygames.com<br>
 deadshot.io<br>
 www.y8.com<br>
-www.msn.com \# it might feel weird that why I added msn, but msn games are distracting too. Plus who likes edge and windows widgets suggestions? <br>
+www.msn.com <!-- it might feel weird that why I added msn, but msn games are distracting too. Plus who likes edge and windows widgets suggestions? <br> -->
 freegames.org<br>
 www.arkadium.com<br>
 playgama.com<br>
