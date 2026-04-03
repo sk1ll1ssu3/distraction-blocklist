@@ -1,39 +1,39 @@
 ## A small list of online gaming sites
 
-poki.com
-www.crazygames.com
-crazygames.com
-deadshot.io
-www.y8.com
-www.msn.com
-freegames.org
-www.arkadium.com
-playgama.com
-www.roblox.com
-www.addictinggames.com
-www.1001games.com
-www.gamesgames.com
-www.minecraft.net
-minecraft.com
-minecraft.net
+poki.com<br>
+www.crazygames.com<br>
+crazygames.com<br>
+deadshot.io<br>
+www.y8.com<br>
+www.msn.com<br>
+freegames.org<br>
+www.arkadium.com<br>
+playgama.com<br>
+www.roblox.com<br>
+www.addictinggames.com<br>
+www.1001games.com<br>
+www.gamesgames.com<br>
+www.minecraft.net<br>
+minecraft.com<br>
+minecraft.net<br>
 
 ## Chess sites
 
-chess.com
-lichess.org
-www.lichess.org
+chess.com<br>
+lichess.org<br>
+www.lichess.org<br>
 
 ## chess.com domains I found
 
-www.justdoinghomework.com
-www.schoolschoolschool.com
-justdoinghomework.com
-schoolschoolschool.com
-www.superhardalgebraproblems.com
-superhardalgebraproblems.com
-pleasedontblockchess.com
-www.pleasedontblockchess.com
-c4355.com
-www.c4355.com
-chezz.xyz
-www.chezz.xyz
+www.justdoinghomework.com<br>
+www.schoolschoolschool.com<br>
+justdoinghomework.com<br>
+schoolschoolschool.com<br>
+www.superhardalgebraproblems.com<br>
+superhardalgebraproblems.com<br>
+pleasedontblockchess.com<br>
+www.pleasedontblockchess.com<br>
+c4355.com<br>
+www.c4355.com<br>
+chezz.xyz<br>
+www.chezz.xyz<br>
