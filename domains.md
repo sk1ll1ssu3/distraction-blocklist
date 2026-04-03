@@ -18,6 +18,48 @@ www.minecraft.net<br>
 minecraft.com<br>
 minecraft.net<br>
 
+# bloxd domains
+unblockedbloxd.com
+unblockedbloxd.us
+bloxdunblocked.com
+bloxdunblocked.space
+bloxdunblocked.org
+bloxdunblocked.work
+unbloxd.com
+unbloxd.site
+bloxd.com
+bloxd.dev
+bloxed.space
+bloxed.net
+bloxdio.space
+bloxdk12.com
+playbloxd.com
+bedwars.space
+bedwarsonline.net
+buildhub.work
+buildhub.club
+skillhub.vip
+classcraft.space
+classcraft.site
+collabspace.space
+creativebuilding.site
+creativebuilding.space
+buildminecreate.com
+iogamesunblocked.com
+unblockedgames.club
+math.wales
+math.cmyru
+math.icu
+geometry.com.de
+geometry.quest
+geometries.top
+trigonometry.website
+geology.top
+archeology.top
+doodlecube.io
+eviltower.io
+bloxdhop.io
+
 ## Chess sites
 
 chess.com<br>
