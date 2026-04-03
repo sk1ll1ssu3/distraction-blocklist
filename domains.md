@@ -1,5 +1,4 @@
 ## A small list of online gaming sites
-
 poki.com<br>
 bloxd.io<br>
 www.crazygames.com<br>
@@ -17,6 +16,36 @@ www.gamesgames.com<br>
 www.minecraft.net<br>
 minecraft.com<br>
 minecraft.net<br>
+
+## crazygames domains
+www.crazygames.com<br>
+de.crazygames.com<br>
+it.crazygames.com<br>
+vn.crazygames.com<br>
+gr.crazygames.com<br>
+ar.crazygames.com<br>
+th.crazygames.com<br>
+www.crazygames.fr<br>
+www.crazygames.co.id<br>
+www.crazygames.cz<br>
+www.crazygames.dk<br>
+www.crazygames.hu<br>
+www.crazygames.nl<br>
+www.crazygames.no<br>
+www.crazygames.pl<br>
+www.crazygames.com.br<br>
+www.crazygames.ro<br>
+www.crazygames.fi<br>
+www.crazygames.se<br>
+www.crazygames.ru<br>
+www.crazygames.com.ua<br>
+www.crazygames.at<br>
+www.crazygames.jp<br>
+www.crazygames.pt<br>
+www.crazygames.vn<br>
+www.crazygames.com.vn<br>
+www.crazygames.co.kr<br>
+games.crazygames.com \# maybe ads but worth blocking I guess <br>
 
 ## bloxd domains
 unblockedbloxd.com<br>
@@ -61,13 +90,11 @@ eviltower.io<br>
 bloxdhop.io<br>
 
 ## Chess sites
-
 chess.com<br>
 lichess.org<br>
 www.lichess.org<br>
 
 ## chess.com domains I found
-
 www.justdoinghomework.com<br>
 www.schoolschoolschool.com<br>
 justdoinghomework.com<br>
