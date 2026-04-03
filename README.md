@@ -1,4 +1,4 @@
-# Distraction URL blocklist
+# Distracting URL blocklist
 
 ## A list of distracting URLs I found to be annoying while working
 
