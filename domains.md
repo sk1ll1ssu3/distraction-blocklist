@@ -91,6 +91,7 @@ bloxdhop.io<br>
 
 ## Chess sites
 chess.com<br>
+www.chess.com<br>
 lichess.org<br>
 www.lichess.org<br>
 
