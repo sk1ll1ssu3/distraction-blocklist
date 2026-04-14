@@ -16,9 +16,9 @@ www.gamesgames.com<br>
 www.minecraft.net<br>
 minecraft.com<br>
 minecraft.net<br>
-crazygames.gg
-horrorgames.io
-azgame.io
+crazygames.gg<br>
+horrorgames.io<br>
+azgame.io<br>
 
 ## crazygames domains
 www.crazygames.com<br>
