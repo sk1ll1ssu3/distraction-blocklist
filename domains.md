@@ -18,6 +18,7 @@ minecraft.com<br>
 minecraft.net<br>
 crazygames.gg
 horrorgames.io
+azgame.io
 
 ## crazygames domains
 www.crazygames.com<br>
