@@ -21,7 +21,6 @@ horrorgames.io<br>
 azgame.io<br>
 
 ## crazygames domains
-www.crazygames.com<br>
 de.crazygames.com<br>
 it.crazygames.com<br>
 vn.crazygames.com<br>
